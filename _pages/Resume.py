@@ -4,7 +4,7 @@ st.set_page_config(page_title="Resume | Nikita Mahajan", layout="wide")
 st.title("My Resume")
 
 # Load your resume PDF file (place in 'data/' folder)
-with open("/home/abcd/Downloads/Portfolio/Nikita_Portfolio/data/Resume Nikita Mahajan.pdf", "rb") as f:
+with open("data/Resume Nikita Mahajan.pdf", "rb") as f:
     resume_bytes = f.read()
 
 # Styled resume card
