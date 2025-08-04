@@ -47,7 +47,7 @@ general_prompt = ["Who is Nikita?", "What are Nikita's skills?", "What are Nikit
 
 def configure_genai():
     """Configure the generative AI model."""
-    genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+    genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
     model = genai.GenerativeModel(MODEL_NAME, system_instruction=SYSTEM_INSTRUCTION)
     return model.start_chat(history=[])
 
