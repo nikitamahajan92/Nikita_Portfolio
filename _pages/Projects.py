@@ -4,7 +4,7 @@ left_column, right_column = st.columns([1, 1])
 
 with left_column:
     st.markdown("----")
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/insight_sphere.png")
+    st.image(r"images/insight_sphere.png")
     st.markdown(
         "### InsightSphere: GenAI Knowledge Hub",
     )
@@ -26,7 +26,7 @@ with left_column:
     st.markdown("----")
 
     
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/tara.png")
+    st.image(r"images/tara.png")
     st.markdown(
         "### Nikita Portfolio with AI Chatbot Tara",
     )
@@ -47,7 +47,7 @@ with left_column:
     st.markdown("----")
 
 
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/diabeties_prediction.png")
+    st.image(r"images/diabeties_prediction.png")
     st.markdown(
         "### Diabetes Prediction Using Machine Learning",
     )
@@ -68,7 +68,7 @@ with left_column:
     st.markdown("----")
 
 
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/sentimate_analysis.png")
+    st.image(r"images/sentimate_analysis.png")
     st.markdown(
         "### Sentiment Analysis Using NLP and Machine Learning",
     )
@@ -90,7 +90,7 @@ with left_column:
 
 
 
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/credit_Card.png")
+    st.image(r"images/credit_Card.png")
     st.markdown(
         "### Credit Card Fraud Detection system",
     )
@@ -118,7 +118,7 @@ with left_column:
 with right_column:
     st.markdown("----")
     st.image(
-        r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/nikkius_Chatbot.png",
+        r"images/nikkius_Chatbot.png",
     )
     st.markdown("### Nikku's Kitchen Chatbot")
     st.markdown("July-2024")
@@ -139,7 +139,7 @@ with right_column:
 
 
     st.image(
-        r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/brain_tumor.png",
+        r"images/brain_tumor.png",
     )
     st.markdown("### Brain Tumor Detection using Deep Learning Models")
     st.markdown("July-2024")
@@ -159,7 +159,7 @@ with right_column:
     st.markdown("----")
 
 
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/breast_cancer.png")
+    st.image(r"images/breast_cancer.png")
     st.markdown(
         "### Breast Cancer Classification Using Deep Learning",
     )
@@ -181,7 +181,7 @@ with right_column:
 
 
 
-    st.image(r"/home/abcd/Downloads/Portfolio/Nikita_Portfolio/images/Movie_Recommed_System.png")
+    st.image(r"images/Movie_Recommed_System.png")
     st.markdown(
         "### Movie Recommender System",
     )
