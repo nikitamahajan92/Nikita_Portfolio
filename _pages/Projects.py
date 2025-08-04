@@ -40,7 +40,7 @@ with left_column:
     st.markdown(
         "<div style='text-align: justify'>"
         "<br>"
-        "<a href='https://github.com/nikitamahajan92/Nikita_Portfolio_with_ai_chatbot_Tara'><img src='https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg' width='40'></a>"
+        "<a href='https://github.com/nikitamahajan92/Nikita_Portfolio'><img src='https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg' width='40'></a>"
         "</div>",
         unsafe_allow_html=True,
     )
