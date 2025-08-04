@@ -1,2 +1,6 @@
+streamlit
 streamlit-option-menu
+streamlit-pills
+google-generativeai
 pandas
+numpy
