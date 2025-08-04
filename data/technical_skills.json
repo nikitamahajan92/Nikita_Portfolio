@@ -1,0 +1,268 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "description": "Core language used for AI development, automation scripts, data processing, and backend APIs."
+    },
+    {
+      "name": "Machine Learning Algorithms",
+      "description": "Implemented classification, regression, and clustering algorithms for predictive modeling."
+    },
+    {
+      "name": "Deep Learning",
+      "description": "Worked with neural networks and CNNs for image recognition, NLP, and custom model training."
+    },
+    {
+      "name": "OpenCV",
+      "description": "Utilized for image processing, OCR, face recognition, and computer vision applications."
+    },
+    {
+      "name": "NLP",
+      "description": "Built text classification, chatbot intents, and question-answering systems using NLP pipelines."
+    },
+    {
+      "name": "Large Language Models (LLMs)",
+      "description": "Integrated LLMs for generative tasks, document Q&A, chatbots, and prompt-based solutions."
+    },
+    {
+      "name": "Generative AI",
+      "description": "Worked on content generation, chatbot replies, and document summarization using GenAI models."
+    },
+    {
+      "name": "Prompt Engineering",
+      "description": "Crafted prompts for Gemini and other LLMs to improve response accuracy in chatbots and tools."
+    },
+    {
+      "name": "FastAPI",
+      "description": "Built high-performance APIs for AI model inference and chatbot backend logic."
+    },
+    {
+      "name": "Streamlit",
+      "description": "Developed interactive AI portfolios and applications using Streamlit with custom UI."
+    },
+    {
+      "name": "Docker",
+      "description": "Containerized AI projects and ensured consistent deployment across environments."
+    },
+    {
+      "name": "GitHub",
+      "description": "Managed version control, collaborative projects, and CI/CD workflows."
+    },
+    {
+      "name": "Data Analytics",
+      "description": "Analyzed structured and unstructured data to derive patterns and model training insights."
+    },
+    {
+      "name": "Data Visualization",
+      "description": "Visualized results using Matplotlib, Seaborn, and Excel to explain model behavior."
+    },
+    {
+      "name": "MongoDB",
+      "description": "Used as a NoSQL database for storing user data and chatbot logs efficiently."
+    },
+    {
+      "name": "ETL Pipeline",
+      "description": "Created pipelines to extract, transform, and load data into analytics systems."
+    },
+    {
+      "name": "Jupyter Notebook",
+      "description": "Developed and documented AI experiments and model evaluations in notebooks."
+    },
+    {
+      "name": "Azure Cloud",
+      "description": "Deployed and secured AI infrastructure using Azure VMs, databases, and cloud functions."
+    },
+    {
+      "name": "Vector Databases",
+      "description": "Used FAISS and similar tools for embedding search and semantic similarity matching."
+    },
+    {
+      "name": "Chatbot Development",
+      "description": "Created LLM-powered chatbots with conversational flow and user context handling."
+    },
+    {
+      "name": "Google Gemini API",
+      "description": "Used Google Gemini to generate contextual replies, summaries, and dynamic chat interactions."
+    },
+    {
+      "name": "Flask",
+      "description": "Built lightweight web APIs for AI models and backend inference logic."
+    },
+    {
+      "name": "Linux",
+      "description": "Worked extensively on Linux (Ubuntu) for development, scripting, and model deployment."
+    },
+    {
+      "name": "Cybersecurity Basics",
+      "description": "Familiar with encryption, secure authentication, and OWASP principles in AI system design."
+    },
+    {
+      "name": "PowerShell",
+      "description": "Used for basic system automation and cloud configuration tasks on Windows systems."
+    },
+    {
+      "name": "JSON",
+      "description": "Used extensively for data interchange between APIs and AI frontends."
+    },
+    {
+      "name": "Excel",
+      "description": "Used for basic data analysis, visualization, and handling CSV/structured data inputs."
+    },
+    {
+      "name": "REST APIs",
+      "description": "Designed and consumed REST APIs for AI model deployment and user interaction."
+    },
+    {
+      "name": "Supervised & Unsupervised Learning",
+      "description": "Applied both supervised and unsupervised machine learning techniques in real-world projects to classify and cluster data efficiently."
+    },
+    {
+      "name": "Neural Networks & CNNs",
+      "description": "Developed deep neural networks including convolutional neural networks (CNNs) for image classification and pattern recognition tasks."
+    },
+    {
+      "name": "RNNs & LSTMs",
+      "description": "Implemented recurrent neural networks (RNNs) and LSTMs for sequence modeling and time-series prediction."
+    },
+    {
+      "name": "Transformers",
+      "description": "Utilized Transformer models for NLP tasks, enabling high-performance text generation, classification, and summarization."
+    },
+    {
+      "name": "Text Classification",
+      "description": "Built NLP pipelines for sentiment analysis, intent classification, and topic categorization using classical ML and deep learning."
+    },
+    {
+      "name": "Transfer Learning",
+      "description": "Leveraged pre-trained models to fine-tune for specific downstream tasks in image and NLP domains."
+    },
+    {
+      "name": "Scikit-learn",
+      "description": "Used for data preprocessing, model building, and evaluation across multiple machine learning projects."
+    },
+    {
+      "name": "PyTorch / TensorFlow",
+      "description": "Developed deep learning models using TensorFlow and PyTorch for structured and unstructured data."
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "description": "Built NLP applications using Hugging Face models like BERT, GPT, and T5 with fine-tuning."
+    },
+    {
+      "name": "XGBoost / LightGBM",
+      "description": "Boosted performance for classification and regression problems using advanced tree-based algorithms."
+    },
+    {
+      "name": "Pandas",
+      "description": "Used for structured data manipulation, transformation, and exploratory data analysis (EDA)."
+    },
+    {
+      "name": "NumPy",
+      "description": "Enabled fast numerical computations, array operations, and integration with ML frameworks."
+    },
+    {
+      "name": "Matplotlib",
+      "description": "Created static visualizations to analyze data distributions and model performance."
+    },
+    {
+      "name": "Seaborn",
+      "description": "Built informative and beautiful statistical graphics built on Matplotlib."
+    },
+    {
+      "name": "Plotly",
+      "description": "Developed interactive charts and dashboards for exploratory and presentation purposes."
+    },
+    {
+      "name": "Power BI",
+      "description": "Used for business intelligence reports and dashboards (if applicable)."
+    },
+    {
+      "name": "Python",
+      "description": "Core programming language used across ML, backend, automation, and scripting."
+    },
+    {
+      "name": "Flask",
+      "description": "Built lightweight backend APIs and integrated ML models into web apps using Flask."
+    },
+    {
+      "name": "FastAPI",
+      "description": "Developed asynchronous, high-performance APIs with FastAPI for AI applications."
+    },
+    {
+      "name": "Node.js",
+      "description": "Basic understanding of Node.js for full-stack awareness and microservices (optional)."
+    },
+    {
+      "name": "RESTful APIs",
+      "description": "Designed and consumed REST APIs for backend communication and ML model integration."
+    },
+    {
+      "name": "GraphQL",
+      "description": "Explored GraphQL for flexible data fetching in frontend-backend interactions (optional)."
+    },
+    {
+      "name": "Database Design",
+      "description": "Created relational and NoSQL database schemas for applications."
+    },
+    {
+      "name": "PostgreSQL / MySQL",
+      "description": "Used for structured data storage and querying in backend systems."
+    },
+    {
+      "name": "SQLite",
+      "description": "Lightweight local database used in prototyping and small applications."
+    },
+    {
+      "name": "HTML / CSS / JavaScript",
+      "description": "Basic understanding to build interactive front-end interfaces and dashboards."
+    },
+    {
+      "name": "React.js",
+      "description": "Exposure to frontend component-based architecture (optional)."
+    },
+    {
+      "name": "Microsoft Azure",
+      "description": "Built and deployed applications and services on Microsoft Azure cloud."
+    },
+    {
+      "name": "CI/CD",
+      "description": "Implemented continuous integration and deployment pipelines using GitHub Actions or Azure DevOps."
+    },
+    {
+      "name": "Git & GitHub",
+      "description": "Used for version control and collaboration across all development projects."
+    },
+    {
+      "name": "Docker",
+      "description": "Containerized ML and backend applications for consistent deployment."
+    },
+    {
+      "name": "Kubernetes",
+      "description": "Basic exposure to orchestration and container management using Kubernetes."
+    },
+    {
+      "name": "Azure DevOps",
+      "description": "Managed pipelines and project tracking in Azure DevOps environments."
+    },
+    {
+      "name": "OAuth 2.0 / JWT",
+      "description": "Implemented secure authentication for REST APIs using token-based protocols."
+    },
+    {
+      "name": "Postman",
+      "description": "Used for testing APIs and endpoints during development."
+    },
+    {
+      "name": "VS Code / PyCharm",
+      "description": "Primary IDEs for coding, debugging, and project management."
+    },
+    {
+      "name": "GitHub Actions",
+      "description": "Created CI/CD pipelines to automate builds and testing using GitHub workflows."
+    },
+    {
+      "name": "Linux CLI",
+      "description": "Comfortable using terminal commands for automation, scripting, and server management."
+    }
+  ]
+}

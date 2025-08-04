@@ -1,0 +1,10 @@
+
+
+
+[theme]
+base="dark"
+primaryColor="#f72585"              # Vibrant magenta (customizable)
+backgroundColor="#0e0e10"           # Very dark, soft background
+secondaryBackgroundColor="#1a1a1d"  # Card & sidebar background
+textColor="#ffffff"                 # Bright white text
+font="sans serif"
