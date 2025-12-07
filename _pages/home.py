@@ -1,12 +1,14 @@
 import streamlit as st
-import google.generativeai as genai
-from datetime import datetime
 from streamlit_pills import pills
+from transformers import pipeline
 
-# Configuration and initialization
-LOG_DIR = "log"
-# MODEL_NAME = "models/gemini-1.5-flash"
-MODEL_NAME = genai.GenerativeModel("gemini-1.5-flash")
+@st.cache_resource
+def load_model():
+    return pipeline("text2text-generation", model="MBZUAI/LaMini-Flan-T5-248M")
+
+model_pipeline = load_model()
+
+
 SYSTEM_INSTRUCTION = """
 You are an AI assistant named Tara, specializing in answering questions solely about Nikita Mahajan. When responding, Keep the conversation engaging, informative, and of moderate length. If you encounter any inappropriate or off-topic questions, politely redirect the user back to the main topics related to Nikita Mahajan. After each answer, always ask if the user wants to know anything else. 
 
