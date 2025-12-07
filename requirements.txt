@@ -1,6 +1,5 @@
 streamlit
 streamlit-option-menu
 streamlit-pills
-google-generativeai>=0.7.0
-pandas
-numpy
+transformers
+torch
